@@ -1,0 +1,23 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Express & MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnakantsalkar/ExpressJs.git"
+  },
+  "author": "Krishnakant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishnakantsalkar/ExpressJs/issues"
+  },
+  "homepage": "https://github.com/krishnakantsalkar/ExpressJs#readme",
+  "dependencies": {
+    "@hapi/joi": "^16.1.4",
+    "express": "^4.17.1"
+  }
+}
